@@ -4,3 +4,4 @@ butter
 honey
 chocolate chips
 raisins
+nuts
