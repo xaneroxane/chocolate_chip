@@ -2,3 +2,4 @@ flour
 eggs
 butter
 honey
+chocolate chips
