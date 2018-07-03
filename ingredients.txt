@@ -3,3 +3,4 @@ eggs
 butter
 honey
 chocolate chips
+raisins
